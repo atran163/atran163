@@ -1,5 +1,5 @@
 # Hey, I'm Amanda! (she/her) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I’m passionate about enalbing others. Specifically, I'm driven by opportunities that can help bridge the gap for womxn, BIPOC, and first-generation students in tech. I enjoy creating my own solutions through research and intuition. 
+I’m super passionate about enalbing others, specifically by opportunities that can help bridge the gap for womxn, BIPOC, and first-generation students in tech! 
 
 Check out my [portfolio](https://github.com/atran163/portfolio) to see what I've been up to! 
 
